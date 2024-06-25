@@ -2,7 +2,7 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 
-public class DataMahasiswaData {
+public class DataMahasiswaApp {
     public static void main(String[] args) {
         // Membuat frame utama
         JFrame frame = new JFrame("Aplikasi Data Mahasiswa");

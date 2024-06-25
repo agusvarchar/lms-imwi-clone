@@ -7,7 +7,7 @@ import java.awt.*;
 public class DataMahasiswa {
     public static void main(String[] args) {
         // Membuat frame utama
-        JFrame frame = new JFrame("Lms-IMWI-CLONE");
+        JFrame frame = new JFrame("lms-imwi-clone");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 600);
 
